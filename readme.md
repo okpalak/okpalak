@@ -3,7 +3,7 @@
 ### 💫 About Me:
 - 🔭 Working on improving myself
 - 🤝 Seeking help with JavaScript
-- 🌱 Currently learning fashion design
+- 🌱 Currently learning UI, Graphics & Fashion design
 - 💬 Ask me about art and design
 - ⚡ Fun fact: "Earth" without "art" is just "eh"
 
